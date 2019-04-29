@@ -11,12 +11,9 @@ public class EmployeeSelectController : MonoBehaviour
 
     public Text employeeList;
 
-    void Awake()
-    {
-        StartCoroutine(SelectEmployee());
-    }
+   
 
-    IEnumerator SelectEmployee()
+    IEnumerator Start()
     {
         WWW employee = new WWW(URL);
         yield return employee;
