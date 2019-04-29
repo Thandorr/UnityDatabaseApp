@@ -193,71 +193,6 @@ CanvasRenderer:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 113844063}
   m_CullTransparentMesh: 0
---- !u!1001 &401533213
-Prefab:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4336249539605344, guid: b9d5115532f42a14c88dfae5b5799059, type: 2}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4336249539605344, guid: b9d5115532f42a14c88dfae5b5799059, type: 2}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4336249539605344, guid: b9d5115532f42a14c88dfae5b5799059, type: 2}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4336249539605344, guid: b9d5115532f42a14c88dfae5b5799059, type: 2}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4336249539605344, guid: b9d5115532f42a14c88dfae5b5799059, type: 2}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4336249539605344, guid: b9d5115532f42a14c88dfae5b5799059, type: 2}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4336249539605344, guid: b9d5115532f42a14c88dfae5b5799059, type: 2}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4336249539605344, guid: b9d5115532f42a14c88dfae5b5799059, type: 2}
-      propertyPath: m_RootOrder
-      value: 2
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: b9d5115532f42a14c88dfae5b5799059, type: 2}
-  m_IsPrefabAsset: 0
---- !u!1 &401533214 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1283409842246170, guid: b9d5115532f42a14c88dfae5b5799059,
-    type: 2}
-  m_PrefabInternal: {fileID: 401533213}
---- !u!114 &401533215
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 401533214}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ac83fefbbaf654e48997a860cf6d5aaa, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  buttonSend: 
-  input: {fileID: 2146181239}
-  dropdown: {fileID: 0}
-  etat: 
-  win: 
-  success: {fileID: 1970395361}
-  check: 0
 --- !u!1 &491360145
 GameObject:
   m_ObjectHideFlags: 0
@@ -467,6 +402,66 @@ CanvasRenderer:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 863572615}
   m_CullTransparentMesh: 0
+--- !u!114 &1036385341 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 114966681062486716, guid: 98cfc1b89d54f494d9b7803889f4393a,
+    type: 2}
+  m_PrefabInternal: {fileID: 1577348238}
+  m_Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+--- !u!1 &1092569952
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1092569954}
+  - component: {fileID: 1092569955}
+  - component: {fileID: 1092569953}
+  m_Layer: 0
+  m_Name: CarController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1092569953
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1092569952}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e87753f1f08c65848b8c798739f92069, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Car: {fileID: 2146181239}
+  WebInfoTextField: {fileID: 1970395361}
+--- !u!4 &1092569954
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1092569952}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 613.3719, y: 784.11584, z: -5}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1092569955
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1092569952}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e613163d2a0f9146adeca1963024e9b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1422574619
 GameObject:
   m_ObjectHideFlags: 0
@@ -743,11 +738,11 @@ Prefab:
         type: 2}
       propertyPath: appController
       value: 
-      objectReference: {fileID: 401533215}
+      objectReference: {fileID: 0}
     - target: {fileID: 114966681062486716, guid: 98cfc1b89d54f494d9b7803889f4393a,
         type: 2}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: ButtonClick
+      value: LoadScene
       objectReference: {fileID: 0}
     - target: {fileID: 114798651528707606, guid: 98cfc1b89d54f494d9b7803889f4393a,
         type: 2}
@@ -778,7 +773,28 @@ Prefab:
       propertyPath: m_LocalScale.z
       value: 0.77585995
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 114966681062486716, guid: 98cfc1b89d54f494d9b7803889f4393a,
+        type: 2}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1092569955}
+    - target: {fileID: 114966681062486716, guid: 98cfc1b89d54f494d9b7803889f4393a,
+        type: 2}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 114966681062486716, guid: 98cfc1b89d54f494d9b7803889f4393a,
+        type: 2}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.UI.Button, UnityEngine.UI
+      objectReference: {fileID: 0}
+    - target: {fileID: 114966681062486716, guid: 98cfc1b89d54f494d9b7803889f4393a,
+        type: 2}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgument
+      value: 
+      objectReference: {fileID: 1036385341}
+    m_RemovedComponents:
+    - {fileID: 114502447674261468, guid: 98cfc1b89d54f494d9b7803889f4393a, type: 2}
   m_SourcePrefab: {fileID: 100100000, guid: 98cfc1b89d54f494d9b7803889f4393a, type: 2}
   m_IsPrefabAsset: 0
 --- !u!1001 &1879498798
@@ -882,11 +898,11 @@ Prefab:
         type: 2}
       propertyPath: appController
       value: 
-      objectReference: {fileID: 401533215}
+      objectReference: {fileID: 0}
     - target: {fileID: 114966681062486716, guid: 98cfc1b89d54f494d9b7803889f4393a,
         type: 2}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: ButtonClick
+      value: AddCarToDatabase
       objectReference: {fileID: 0}
     - target: {fileID: 114798651528707606, guid: 98cfc1b89d54f494d9b7803889f4393a,
         type: 2}
@@ -898,7 +914,17 @@ Prefab:
       propertyPath: m_FontData.m_FontSize
       value: 35
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 114966681062486716, guid: 98cfc1b89d54f494d9b7803889f4393a,
+        type: 2}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1092569953}
+    - target: {fileID: 1164513581512872, guid: 98cfc1b89d54f494d9b7803889f4393a, type: 2}
+      propertyPath: m_Name
+      value: AddCarButton
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 114502447674261468, guid: 98cfc1b89d54f494d9b7803889f4393a, type: 2}
   m_SourcePrefab: {fileID: 100100000, guid: 98cfc1b89d54f494d9b7803889f4393a, type: 2}
   m_IsPrefabAsset: 0
 --- !u!224 &1879498799 stripped
@@ -917,7 +943,7 @@ GameObject:
   - component: {fileID: 1970395362}
   - component: {fileID: 1970395361}
   m_Layer: 5
-  m_Name: Success
+  m_Name: WebInfo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

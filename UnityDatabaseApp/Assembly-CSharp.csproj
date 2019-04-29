@@ -57,6 +57,10 @@
      <Compile Include="Assets\Scripts\ButtonScript.cs" />
      <Compile Include="Assets\Scripts\carInsert.cs" />
      <Compile Include="Assets\Scripts\carSelect.cs" />
+     <Compile Include="Assets\Scripts\Controllers\CarController.cs" />
+     <Compile Include="Assets\Scripts\Controllers\EmployeeController.cs" />
+     <Compile Include="Assets\Scripts\Controllers\EmployeeSelectController.cs" />
+     <Compile Include="Assets\Scripts\Controllers\LoadSceneController.cs" />
      <Compile Include="Assets\Scripts\employeeInsert.cs" />
      <Compile Include="Assets\Scripts\employeeSelect.cs" />
      <Compile Include="Assets\Scripts\selectEtat.cs" />
