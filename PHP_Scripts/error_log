@@ -1,0 +1,34 @@
+[29-Apr-2019 12:38:40 Europe/Warsaw] PHP Warning:  Illegal string offset 'id_etatu' in /home/eizdueut/public_html/wsh_projects/employeeInsert.php on line 15
+[29-Apr-2019 12:38:40 Europe/Warsaw] PHP Warning:  Illegal string offset 'id_etatu' in /home/eizdueut/public_html/wsh_projects/employeeInsert.php on line 15
+[29-Apr-2019 12:38:40 Europe/Warsaw] PHP Warning:  Illegal string offset 'id_etatu' in /home/eizdueut/public_html/wsh_projects/employeeInsert.php on line 15
+[29-Apr-2019 12:40:53 Europe/Warsaw] PHP Warning:  Illegal string offset 'id_etatu' in /home/eizdueut/public_html/wsh_projects/employeeInsert.php on line 15
+[29-Apr-2019 12:40:53 Europe/Warsaw] PHP Warning:  Illegal string offset 'id_etatu' in /home/eizdueut/public_html/wsh_projects/employeeInsert.php on line 15
+[29-Apr-2019 12:40:53 Europe/Warsaw] PHP Warning:  Illegal string offset 'id_etatu' in /home/eizdueut/public_html/wsh_projects/employeeInsert.php on line 15
+[29-Apr-2019 12:41:55 Europe/Warsaw] PHP Warning:  Illegal string offset 'id_etatu' in /home/eizdueut/public_html/wsh_projects/employeeInsert.php on line 15
+[29-Apr-2019 12:41:55 Europe/Warsaw] PHP Warning:  Illegal string offset 'id_etatu' in /home/eizdueut/public_html/wsh_projects/employeeInsert.php on line 15
+[29-Apr-2019 12:41:55 Europe/Warsaw] PHP Warning:  Illegal string offset 'id_etatu' in /home/eizdueut/public_html/wsh_projects/employeeInsert.php on line 15
+[29-Apr-2019 12:44:38 Europe/Warsaw] PHP Warning:  Illegal string offset 'id_etatu' in /home/eizdueut/public_html/wsh_projects/employeeInsert.php on line 15
+[29-Apr-2019 12:44:38 Europe/Warsaw] PHP Warning:  Illegal string offset 'id_etatu' in /home/eizdueut/public_html/wsh_projects/employeeInsert.php on line 15
+[29-Apr-2019 12:44:38 Europe/Warsaw] PHP Warning:  Illegal string offset 'id_etatu' in /home/eizdueut/public_html/wsh_projects/employeeInsert.php on line 15
+[29-Apr-2019 12:45:34 Europe/Warsaw] PHP Warning:  Illegal string offset 'id_etatu' in /home/eizdueut/public_html/wsh_projects/employeeInsert.php on line 15
+[29-Apr-2019 12:47:24 Europe/Warsaw] PHP Warning:  Illegal string offset 'id_etatu' in /home/eizdueut/public_html/wsh_projects/employeeInsert.php on line 15
+[29-Apr-2019 12:48:01 Europe/Warsaw] PHP Parse error:  syntax error, unexpected 'id_etatu' (T_STRING) in /home/eizdueut/public_html/wsh_projects/employeeInsert.php on line 15
+[29-Apr-2019 12:48:54 Europe/Warsaw] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/eizdueut/public_html/wsh_projects/employeeInsert.php on line 11
+[29-Apr-2019 12:50:06 Europe/Warsaw] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/eizdueut/public_html/wsh_projects/employeeInsert.php on line 11
+[29-Apr-2019 12:50:54 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '$etat' (T_VARIABLE) in /home/eizdueut/public_html/wsh_projects/employeeInsert.php on line 7
+[29-Apr-2019 12:51:37 Europe/Warsaw] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/eizdueut/public_html/wsh_projects/employeeInsert.php on line 11
+[29-Apr-2019 12:55:47 Europe/Warsaw] PHP Warning:  Illegal string offset 'nazwa' in /home/eizdueut/public_html/wsh_projects/employeeInsert.php on line 15
+[29-Apr-2019 12:55:47 Europe/Warsaw] PHP Warning:  Illegal string offset 'nazwa' in /home/eizdueut/public_html/wsh_projects/employeeInsert.php on line 15
+[29-Apr-2019 12:55:47 Europe/Warsaw] PHP Warning:  Illegal string offset 'nazwa' in /home/eizdueut/public_html/wsh_projects/employeeInsert.php on line 15
+[29-Apr-2019 12:57:03 Europe/Warsaw] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/eizdueut/public_html/wsh_projects/employeeInsert.php on line 11
+[29-Apr-2019 13:42:15 Europe/Warsaw] PHP Fatal error:  Call to undefined function mysqli_connect_ernno() in /home/eizdueut/public_html/wsh_projects/employeeInsert.php on line 4
+[29-Apr-2019 13:43:36 Europe/Warsaw] PHP Fatal error:  Call to undefined function mysqli_connect_ernno() in /home/eizdueut/public_html/wsh_projects/employeeInsert.php on line 4
+[29-Apr-2019 13:44:53 Europe/Warsaw] PHP Fatal error:  Call to undefined function mysqli_connect_ernno() in /home/eizdueut/public_html/wsh_projects/employeeInsert.php on line 4
+[29-Apr-2019 13:45:11 Europe/Warsaw] PHP Fatal error:  Call to undefined function mysqli_connect_ernno() in /home/eizdueut/public_html/wsh_projects/employeeInsert.php on line 4
+[29-Apr-2019 13:45:42 Europe/Warsaw] PHP Fatal error:  Call to undefined function mysqli_connect_ernno() in /home/eizdueut/public_html/wsh_projects/employeeInsert.php on line 4
+[29-Apr-2019 13:46:42 Europe/Warsaw] PHP Fatal error:  Call to undefined function mysqli_connect_ernno() in /home/eizdueut/public_html/wsh_projects/employeeInsert.php on line 4
+[29-Apr-2019 13:46:45 Europe/Warsaw] PHP Fatal error:  Call to undefined function mysqli_connect_ernno() in /home/eizdueut/public_html/wsh_projects/employeeInsert.php on line 4
+[29-Apr-2019 15:33:04 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '=' in /home/eizdueut/public_html/wsh_projects/carInsert.php on line 6
+[29-Apr-2019 15:34:00 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '=' in /home/eizdueut/public_html/wsh_projects/carInsert.php on line 6
+[29-Apr-2019 15:35:54 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '=' in /home/eizdueut/public_html/wsh_projects/carInsert.php on line 6
+[29-Apr-2019 15:37:01 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '=' in /home/eizdueut/public_html/wsh_projects/carInsert.php on line 6
