@@ -32,3 +32,12 @@
 [29-Apr-2019 15:34:00 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '=' in /home/eizdueut/public_html/wsh_projects/carInsert.php on line 6
 [29-Apr-2019 15:35:54 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '=' in /home/eizdueut/public_html/wsh_projects/carInsert.php on line 6
 [29-Apr-2019 15:37:01 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '=' in /home/eizdueut/public_html/wsh_projects/carInsert.php on line 6
+[29-Apr-2019 15:56:58 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/eizdueut/public_html/wsh_projects/employeeSelect.php on line 12
+[30-Apr-2019 10:06:03 Europe/Warsaw] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/eizdueut/public_html/wsh_projects/repairInsert.php on line 15
+[30-Apr-2019 10:06:03 Europe/Warsaw] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/eizdueut/public_html/wsh_projects/repairInsert.php on line 24
+[30-Apr-2019 10:07:24 Europe/Warsaw] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/eizdueut/public_html/wsh_projects/repairInsert.php on line 15
+[30-Apr-2019 10:07:24 Europe/Warsaw] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/eizdueut/public_html/wsh_projects/repairInsert.php on line 24
+[30-Apr-2019 10:17:26 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '.' in /home/eizdueut/public_html/wsh_projects/repairInsert.php on line 35
+[30-Apr-2019 10:17:28 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '.' in /home/eizdueut/public_html/wsh_projects/repairInsert.php on line 35
+[30-Apr-2019 10:17:38 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '.' in /home/eizdueut/public_html/wsh_projects/repairInsert.php on line 35
+[30-Apr-2019 10:17:38 Europe/Warsaw] PHP Parse error:  syntax error, unexpected '.' in /home/eizdueut/public_html/wsh_projects/repairInsert.php on line 35
