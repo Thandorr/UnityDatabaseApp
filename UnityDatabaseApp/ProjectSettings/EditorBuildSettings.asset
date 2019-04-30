@@ -20,4 +20,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/cars.unity
     guid: 3173987f935b13445bcfc6403aef273f
+  - enabled: 1
+    path: Assets/Scenes/repairs.unity
+    guid: c9afd5e6cb782d34589c642e2b7ad7fd
+  - enabled: 1
+    path: Assets/Scenes/addRepair.unity
+    guid: 8e9ee9541313ab346939c8a74210e53a
+  - enabled: 1
+    path: Assets/Scenes/addProfession.unity
+    guid: d935bf9bd3479ed458428f2f9abf0356
   m_configObjects: {}

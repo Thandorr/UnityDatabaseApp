@@ -57,11 +57,14 @@
      <Compile Include="Assets\Scripts\ButtonScript.cs" />
      <Compile Include="Assets\Scripts\carInsert.cs" />
      <Compile Include="Assets\Scripts\carSelect.cs" />
+     <Compile Include="Assets\Scripts\Controllers\AddRepairController.cs" />
      <Compile Include="Assets\Scripts\Controllers\CarController.cs" />
-     <Compile Include="Assets\Scripts\Controllers\CarSelectController.cs" />
+     <Compile Include="Assets\Scripts\Controllers\DateInputController.cs" />
      <Compile Include="Assets\Scripts\Controllers\EmployeeController.cs" />
-     <Compile Include="Assets\Scripts\Controllers\EmployeeSelectController.cs" />
+     <Compile Include="Assets\Scripts\Controllers\ListController.cs" />
      <Compile Include="Assets\Scripts\Controllers\LoadSceneController.cs" />
+     <Compile Include="Assets\Scripts\Controllers\ProfessionController.cs" />
+     <Compile Include="Assets\Scripts\DropdownOptionScript.cs" />
      <Compile Include="Assets\Scripts\employeeInsert.cs" />
      <Compile Include="Assets\Scripts\employeeSelect.cs" />
      <Compile Include="Assets\Scripts\selectEtat.cs" />

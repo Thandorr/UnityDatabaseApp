@@ -121,8 +121,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 108501456}
-  - component: {fileID: 108501455}
   - component: {fileID: 108501454}
+  - component: {fileID: 108501455}
   m_Layer: 0
   m_Name: EmployeeSelectController
   m_TagString: Untagged
@@ -149,11 +149,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 108501453}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7803e503c24aa9a4db38d72120161e6c, type: 3}
+  m_Script: {fileID: 11500000, guid: a0de795adcdd6b34c87500011912d90e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  employeeData: []
-  employeeList: {fileID: 1931656965}
+  URL: http://kjasiurkowski.cln.servizza.it/wsh_projects/employeeSelect.php
+  listData: []
+  list: {fileID: 1931656965}
 --- !u!4 &108501456
 Transform:
   m_ObjectHideFlags: 0

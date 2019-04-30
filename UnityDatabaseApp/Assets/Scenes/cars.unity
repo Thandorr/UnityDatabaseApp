@@ -215,11 +215,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 428159688}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4beed15eb982e5e4598865632649c030, type: 3}
+  m_Script: {fileID: 11500000, guid: a0de795adcdd6b34c87500011912d90e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  carsData: []
-  carsList: {fileID: 1891255253}
+  URL: http://kjasiurkowski.cln.servizza.it/wsh_projects/carSelect.php
+  listData: []
+  list: {fileID: 1891255253}
 --- !u!114 &428159690
 MonoBehaviour:
   m_ObjectHideFlags: 0
